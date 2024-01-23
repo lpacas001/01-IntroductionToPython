@@ -1,4 +1,8 @@
 print('Hello, World')
+print('this is confusing')
+product = 3,607 * 34,227
+
+print(product)
 
 ###############################################################################
 #
@@ -58,7 +62,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 3.
+# DONE: 3.
 #   Add another   print   statement below the current Line 1 above.
 #   It should print any string that you want.
 #
@@ -71,7 +75,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 4.
+# DONE: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you.
