@@ -17,7 +17,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #   The TO-DO comment above this one indicates that there is something for
 #   you to do.
 #
@@ -33,7 +33,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 2.
+# DONE: 2.
 #
 #   Notice that TODO's turn blue even inside of comments. This helps you
 #   find them easier when you are looking for what you still need to do.
